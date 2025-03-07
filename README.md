@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Muhammad Hassaan Moazan and I'm a Software Engineer in making from FAST-NUCES Lahore</h3>
+<h3 align="left">Hi 👋! My name is Muhammad Hassaan Moazan. A Software Engineer in making from FAST-NUCES Lahore</h3>
 
 ###
 
