@@ -9,8 +9,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="47" alt="cplusplus logo"  />
   <img width="14" />
@@ -33,16 +31,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media-hosting.imagekit.io//9d767a50437c4c04/143567.gif?Expires=1835978992&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=CCEsaxyhZPB3DSRfzf098FyniwO1zSPtVRzEgi-DHD0Y5XCpkHo~h507FaOBJQpc0GqZpUr0bSrIGGiUbtJf-bpCikTYXz7klAmPEex1nxVeRwBy-Kff1J0MuB0LwzvrCgr9sm63jkCri7VPUBF-dMLh0DxO0XxmMTRbTRUBuCfMlkx8-GtL79miZQMNdNsW~Tbyo4uShdGg0AnT0QE77PXsu9sh16D8CjzhoJtZLZj9TLEilM2nDriwMFizk5pJdi7cRUEcUdZzGXRI4vYruPqdxwo9GUXVjqasnhXzIUG5oqOf32SBuT64fGBIcWMWFIiZHJ1Q3-oPKXscf3xozA__"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/MHM0321/MHM0321/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <div align="center">
   <a href="discordapp.com/users/522370417474797588" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="47" alt="discord logo"  />
@@ -51,5 +39,13 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="47" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="150" src="https://media-hosting.imagekit.io//9d767a50437c4c04/143567.gif?Expires=1835978992&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=CCEsaxyhZPB3DSRfzf098FyniwO1zSPtVRzEgi-DHD0Y5XCpkHo~h507FaOBJQpc0GqZpUr0bSrIGGiUbtJf-bpCikTYXz7klAmPEex1nxVeRwBy-Kff1J0MuB0LwzvrCgr9sm63jkCri7VPUBF-dMLh0DxO0XxmMTRbTRUBuCfMlkx8-GtL79miZQMNdNsW~Tbyo4uShdGg0AnT0QE77PXsu9sh16D8CjzhoJtZLZj9TLEilM2nDriwMFizk5pJdi7cRUEcUdZzGXRI4vYruPqdxwo9GUXVjqasnhXzIUG5oqOf32SBuT64fGBIcWMWFIiZHJ1Q3-oPKXscf3xozA__"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/MHM0321/MHM0321/output/snake.svg" alt="Snake animation" />
 
 ###
