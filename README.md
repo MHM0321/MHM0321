@@ -32,10 +32,10 @@
 ###
 
 <div align="center">
-  <a href="discordapp.com/users/522370417474797588" target="_blank">
+  <a href="https://discord.com/users/522370417474797588" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="80" height="55" alt="discord logo"  />
   </a>
-  <a href="boxloid0321321@gmail.com" target="_blank">
+  <a href="https://boxloid0321321@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="55" alt="gmail logo"  />
   </a>
 </div>
