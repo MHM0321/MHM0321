@@ -16,17 +16,10 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="55" alt="csharp logo"  />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="55" alt="lua logo"  />
-  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55" alt="figma logo"  />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="55" alt="androidstudio logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="55" alt="java logo"  />
-  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="55" alt="unity logo"  />
+  <img width="25" />
 </div>
 
 ###
@@ -43,7 +36,7 @@
 ###
 
 <div align="center">
-  <img height="190" src="https://media-hosting.imagekit.io//9d767a50437c4c04/143567.gif?Expires=1835978992&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=CCEsaxyhZPB3DSRfzf098FyniwO1zSPtVRzEgi-DHD0Y5XCpkHo~h507FaOBJQpc0GqZpUr0bSrIGGiUbtJf-bpCikTYXz7klAmPEex1nxVeRwBy-Kff1J0MuB0LwzvrCgr9sm63jkCri7VPUBF-dMLh0DxO0XxmMTRbTRUBuCfMlkx8-GtL79miZQMNdNsW~Tbyo4uShdGg0AnT0QE77PXsu9sh16D8CjzhoJtZLZj9TLEilM2nDriwMFizk5pJdi7cRUEcUdZzGXRI4vYruPqdxwo9GUXVjqasnhXzIUG5oqOf32SBuT64fGBIcWMWFIiZHJ1Q3-oPKXscf3xozA__"  />
+  <img height="190" src="https://art.pixilart.com/f9c5cb62697765a.gif"  />
 </div>
 
 ###
