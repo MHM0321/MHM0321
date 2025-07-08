@@ -31,8 +31,8 @@
 ###
 
 <div align="center">
+  <Text style = {{color: white}}>Contact me on:<Text/>
   <a href="https://discord.com/users/522370417474797588" target="_blank">
-    <Text style = {{color: white}}>Contact me on:<Text/>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="80" height="55" alt="discord logo"  />
   </a>
   <a href="https://boxloid0321321@gmail.com" target="_blank">
