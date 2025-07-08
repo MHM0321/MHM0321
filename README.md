@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-  <Text style = {{color: white, fontSize: 26, fontWeight: 'bold'}}>Contact me on:</Text>
+  <h2 style="color: white; font-weight: bold;">Contact me on:</h2>
 </div>
 
 <div align="center">
