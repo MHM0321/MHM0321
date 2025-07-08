@@ -31,6 +31,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="55" alt="laravel logo" />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="sql logo" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="55" alt="SSMS logo" />
+  <img width="25" />
+
+  <!-- Azure Database (Custom) -->
+  <img src="https://learn.microsoft.com/en-us/sql/ssms/media/ssms-icon.png" height="55" alt="Azure DB logo" />
+  <img width="25" />
+
+  <!-- SQLite -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="55" alt="sqlite logo" />
+  <img width="25" />
+
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="postgresql logo" />
+  <img width="25" />
+
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55" alt="mongodb logo" />
 </div>
 
 ###
