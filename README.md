@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-  <p style="color: white; font-size: 26px; font-weight: bold;">Contact me on:</p>
+  <h1 style="color: white; font-weight: bold;">Contact me on:</h1>
 </div>
 
 <div align="center">
