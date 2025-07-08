@@ -32,7 +32,7 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="sql logo" />
   <img width="25" />
-  <img src="https://learn.microsoft.com/en-us/sql/ssms/media/ssms-icon.png" height="55" alt="SSMS logo" />
+  <img src="https://raw.githubusercontent.com/Azure/azure-sdk/master/media/sql-database/sql-database-icon.png" height="55" alt="SSMS logo" />
   <img width="25" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" height="55" alt="Azure DB logo" />
   <img width="25" />
