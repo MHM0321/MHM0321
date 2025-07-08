@@ -30,9 +30,7 @@
 
 ###
 
-<div align="center">
-  <h1 style="color: white; font-weight: bold;">Contact me on:</h1>
-</div>
+<h3 style="color: white; font-weight: bold;">Contact me on:</h3>
 
 <div align="center">
   <a href="https://discord.com/users/522370417474797588" target="_blank">
