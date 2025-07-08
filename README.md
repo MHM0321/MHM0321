@@ -34,6 +34,11 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="55" alt="SSMS logo" />
   <img width="25" />
 
+
+  <!-- SSMS / Microsoft SQL Server (Custom) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="55" alt="SSMS logo" />
+  <img width="25" />
+  
   <!-- Azure Database (Custom) -->
   <img src="https://learn.microsoft.com/en-us/sql/ssms/media/ssms-icon.png" height="55" alt="Azure DB logo" />
   <img width="25" />
