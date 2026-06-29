@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Muhammad Hassaan Moazan. A Software Engineer in making from FAST-NUCES Lahore</h3>
+<h3 align="left">Hi 👋! I'm Muhammad Hassaan Moazan. A Software Engineer in making from FAST-NUCES Lahore</h3>
 
 ###
 
@@ -15,6 +15,8 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="55" alt="C#" title="C#" />
   <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="Java" title="Java" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55" alt="Figma" title="Figma" />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="55" alt="Unity" title="Unity" />
@@ -23,9 +25,9 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="React Native" title="React Native" />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="55" alt="Vue.js" title="Vue.js" />
-  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="55" alt="Flutter" title="Flutter" />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="Node.js" title="Node.js" />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="55" alt="Laravel" title="Laravel" />
   <img width="25" />
@@ -33,15 +35,12 @@
   <img width="25" />
   <img src="https://raw.githubusercontent.com/MHM0321/icons/main/ssms2.png" height="55" alt="SQL Server Management Studio" title="SQL Server Management Studio" />
   <img width="25" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" height="55" alt="Azure SQL Database" title="Azure SQL Database" />
-  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="55" alt="SQLite" title="SQLite" />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="PostgreSQL" title="PostgreSQL" />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55" alt="MongoDB" title="MongoDB" />
 </div>
-
 ###
 
 <div align="center">
