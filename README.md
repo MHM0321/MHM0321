@@ -1,12 +1,5 @@
 <h3 align="left">Hi 👋! I'm Muhammad Hassaan Moazan. A Software Engineer in making from FAST-NUCES Lahore</h3>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MHM0321&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
-</div>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" alt="C++" title="C++" />
@@ -41,7 +34,6 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55" alt="MongoDB" title="MongoDB" />
 </div>
-###
 
 <div align="center">
   <img
