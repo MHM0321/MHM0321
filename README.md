@@ -14,9 +14,9 @@
 
 <div align="center">
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="Laravel" /> |
-|:---:|:---:|
-| **Node.js** | **Laravel** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express.js" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="Laravel" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" /> |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **JavaScript** | **Node.js** | **Express.js** | **Laravel** | **Java** | **C#** |
 
 </div>
 
@@ -26,9 +26,21 @@
 
 <div align="center">
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React Native" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="Flutter" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" /> |
-|:---:|:---:|:---:|:---:|
-| **JavaScript** | **React Native** | **Flutter** | **Figma** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React Native" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="Flutter" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" /> |
+|:---:|:---:|:---:|
+| **React Native** | **Flutter** | **Figma** |
+
+</div>
+
+---
+
+### 🌐 Other Tools & Languages
+
+<div align="center">
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" alt="Unity" /> |
+|:---:|:---:|:---:|
+| **C++** | **C** | **Unity** |
 
 </div>
 
@@ -48,25 +60,19 @@
 
 ### ☁️ Deployments
 
-> *(Coming soon — add your deployment tools here!)*
+<div align="center">
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" height="50" alt="Railway" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="50" alt="Vercel" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" height="50" alt="Render" /> |
+|:---:|:---:|:---:|
+| **Railway** | **Vercel** | **Render** |
+
+</div>
 
 ---
 
 ### 🤖 AI & Integrations
 
-> *(Coming soon — add your AI tools and integrations here!)*
-
----
-
-### 🌐 Languages & Other Tools
-
-<div align="center">
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" alt="Unity" /> |
-|:---:|:---:|:---:|:---:|:---:|
-| **C++** | **C** | **C#** | **Java** | **Unity** |
-
-</div>
+> *(Coming soon — will be updated!)*
 
 ---
 
